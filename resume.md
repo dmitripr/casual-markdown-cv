@@ -4,14 +4,18 @@
   someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
 </span>
 
-# Casualwriter  
+# Dmitri Prigojev  
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+Technology Leader with over 15 years of experience leading cross-functional teams to deliver
+enterprise-level cloud and SAP solutions for Fortune 500 companies. Demonstrated excellence in
+leadership by managing teams of 50+ professionals, spearheading global initiatives across 60+
+facilities in 29 countries, and driving process optimization through innovative problem-solving.
+Adept at quickly learning and implementing new technologies to develop strategic solutions that
+result in significant operational improvements and cost savings exceeding $36 million. Proven
+ability to translate complex technical concepts into actionable business strategies, fostering strong
+client relationships and leading initiatives that drive revenue growth and operational excellence.
 
 ## Working Experience
 
